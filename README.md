@@ -18,12 +18,6 @@ The project demonstrates basic banking operations such as:
 
 ---
 
-## 💻 Technologies Used
-- Java (Core concepts: loops, conditionals, methods, user input handling)
-- Scanner class for input
-
----
-
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
